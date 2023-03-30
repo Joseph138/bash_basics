@@ -17,7 +17,5 @@ echo "$filename is now created!"
 echo "What's your favorite movie?"
 read favMovie
 echo "$favMovie is a good one!"
-#Reading the user's favorite movie
-echo "What's your favorite album?
-read favAlbum
-echo "$favAlbum is fantastic!"
+#Deleting the favorite album question in the bash file
+
