@@ -13,3 +13,7 @@ echo 'Your name was stored in $name'
 echo "Type in the file name in the command"
 read filename
 echo "$filename is now created!"
+#Reading the user's favorite movie
+echo "What's your favorite movie?"
+read favMovie
+echo "$favMovie is a good one!"
